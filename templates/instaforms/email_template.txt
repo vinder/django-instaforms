@@ -1,0 +1,9 @@
+--
+
+{% for key, value in cleaned_data.items %}
+{{ key }}: {{ value }}
+{% endfor %}
+
+--
+Powered by InstaForms
+--
