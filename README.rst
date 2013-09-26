@@ -23,7 +23,7 @@ Quick start
           'instaforms',
         )
 
-2. Make sure your email settings are configured in your settings.py
+2. Make sure your email settings are configured in your settings.py::
 
         INSTAFORMS_RECIPIENT_LIST = ['you@example.com']
 
