@@ -7,7 +7,7 @@ Set your forms free. Add a django form to any view. The poor man's Wufoo.
 Why instaforms?
 ---------------
 
-There are many Djagno reusable apps that help you add a form to your website. Normally the form is tied to a specific view. What if you want to add a form to any existing view? Instaforms will help you solve this scenario.
+There are many Django reusable apps that help you add a form to your website. Normally the form is tied to a specific view. What if you want to add a form to any existing view? Instaforms will help you solve this scenario.
 
 No models required. Form results are emailed to the INSTAFORMS_RECIPENT_LIST.
 
